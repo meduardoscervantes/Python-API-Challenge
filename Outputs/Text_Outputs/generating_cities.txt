@@ -1,0 +1,2724 @@
+Now writing to output file!
+0 b'Dikson' added
+1 b'Longyearbyen' added
+2 b'Narsaq' added
+3 b'Quatre Cocos' added
+4 b'Cape Town' added
+5 b'Nardaran' added
+6 b'Boden' added
+7 b'Bredasdorp' added
+8 b'Port Alfred' added
+9 b'Upernavik' added
+10 b'Oruro' added
+11 b'Qaanaaq' added
+12 b'Clyde River' added
+13 b'Ushuaia' added
+14 b'Busselton' added
+15 b'Port Elizabeth' added
+16 b'Husavik' added
+illoqqortoormiut does not exist
+illoqqortoormiut does not exist
+17 b'Severnyy-Kospashskiy' added
+illoqqortoormiut does not exist
+18 b'Rio Novo do Sul' added
+19 b'Werneck' added
+belushya guba does not exist
+barentsburg does not exist
+20 b'Kudahuvadhoo' added
+21 b'Hermanus' added
+taolanaro does not exist
+22 b'Albany' added
+barentsburg does not exist
+23 b'Salalah' added
+24 b'Hithadhoo' added
+25 b'Tasiilaq' added
+taolanaro does not exist
+26 b'Hofn' added
+27 b'Abu Samrah' added
+28 b'Kita' added
+29 b'Espinosa' added
+30 b'Kathu' added
+31 b'Jamestown' added
+32 b'George Town' added
+33 b'Coquimbo' added
+34 b'Timbiqu\xc3\xad' added
+35 b'Dingle' added
+36 b'Bol' added
+37 b'Grindavik' added
+38 b'Oistins' added
+39 b'Punta Arenas' added
+belushya guba does not exist
+40 b'Ginda' added
+belushya guba does not exist
+41 b'Rafai' added
+42 b'Maun' added
+illoqqortoormiut does not exist
+amderma does not exist
+43 b'S\xc3\xa3o Filipe' added
+belushya guba does not exist
+44 b'Chui' added
+45 b'Drezdenko' added
+barentsburg does not exist
+46 b'Bengkulu' added
+47 b'Monrovia' added
+48 b'Bukama' added
+49 b'Hamilton' added
+Now writing to output file!
+0 b'Saint-Philippe' added
+1 b'Mah\xc3\xa9bourg' added
+2 b'Klaksv\xc3\xadk' added
+illoqqortoormiut does not exist
+taolanaro does not exist
+illoqqortoormiut does not exist
+3 b'Eydhafushi' added
+4 b'Sinnamary' added
+5 b'Gemeente Wageningen' added
+6 b'Timberlake' added
+belushya guba does not exist
+7 b'Kruisfontein' added
+8 b'Akdepe' added
+9 b'Torbay' added
+10 b'Bathsheba' added
+barentsburg does not exist
+11 b'East London' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+12 b'Mahajanga' added
+13 b'Bruneck' added
+14 b'Comodoro Rivadavia' added
+illoqqortoormiut does not exist
+15 b'Bariloche' added
+belushya guba does not exist
+16 b'Mar del Plata' added
+17 b'Nara' added
+18 b'Vikulovo' added
+belushya guba does not exist
+barentsburg does not exist
+illoqqortoormiut does not exist
+19 b'Kaspiysk' added
+20 b'Neuqu\xc3\xa9n' added
+21 b'Arraial do Cabo' added
+22 b'Camacha' added
+23 b'Taoudenni' added
+24 b'Grand Gaube' added
+25 b'Conde' added
+illoqqortoormiut does not exist
+26 b'Chebsara' added
+belushya guba does not exist
+belushya guba does not exist
+27 b'Shelburne' added
+28 b'Godine\xc5\x9fti' added
+29 b'Achim' added
+30 b'Mal\xc3\xa9' added
+31 b'Porto-Novo' added
+illoqqortoormiut does not exist
+barentsburg does not exist
+32 b'Codrington' added
+33 b'Rio Grande' added
+barentsburg does not exist
+illoqqortoormiut does not exist
+34 b'Iracoubo' added
+35 b'Ormara' added
+36 b'Roald' added
+37 b'Kholm' added
+38 b'Matagami' added
+39 b'Yar-Sale' added
+40 b'Thompson' added
+41 b'Lebu' added
+42 b'Key Largo' added
+43 b'Agustin Codazzi' added
+belushya guba does not exist
+amderma does not exist
+grand river south east does not exist
+44 b'Tabuk' added
+45 b'Cayenne' added
+46 b'Kavaratti' added
+barentsburg does not exist
+belushya guba does not exist
+barentsburg does not exist
+attawapiskat does not exist
+47 b'Thatta' added
+illoqqortoormiut does not exist
+48 b'San Lorenzo' added
+belushya guba does not exist
+barentsburg does not exist
+49 b'Crotone' added
+Now writing to output file!
+belushya guba does not exist
+0 b'Faya' added
+tasbuget does not exist
+barentsburg does not exist
+1 b'Chililabombwe' added
+2 b'Tocopilla' added
+illoqqortoormiut does not exist
+rolim de moura does not exist
+3 b'Andros Town' added
+4 b'L\xc3\xbcderitz' added
+5 b'Saldanha' added
+6 b'Urucar\xc3\xa1' added
+7 b'S\xc3\xa3o Jo\xc3\xa3o da Barra' added
+belushya guba does not exist
+8 b'Bhaderwah' added
+9 b'Nadym' added
+belushya guba does not exist
+10 b'Kuytun' added
+11 b'Hong Kong' added
+illoqqortoormiut does not exist
+12 b'Coruripe' added
+13 b'Ribeira Grande' added
+warqla does not exist
+14 b'Abu Kamal' added
+15 b'Muros' added
+16 b'Camabatela' added
+belushya guba does not exist
+barentsburg does not exist
+belushya guba does not exist
+17 b'Sirte' added
+18 b'Geraldton' added
+19 b'Washington' added
+asayita does not exist
+20 b'Ostrovnoy' added
+taolanaro does not exist
+barentsburg does not exist
+21 b'Sur' added
+amderma does not exist
+22 b'La Santisima Trinidad' added
+23 b'Bonthe' added
+24 b'Porto Velho' added
+25 b'Kopavogur' added
+barentsburg does not exist
+26 b'Mau' added
+27 b'Consett' added
+28 b'Trairi' added
+29 b'Nantucket' added
+marcona does not exist
+illoqqortoormiut does not exist
+30 b'Oranjemund' added
+31 b'Pangnirtung' added
+32 b'Suc\xc3\xbaa' added
+belushya guba does not exist
+tsihombe does not exist
+belushya guba does not exist
+33 b'Cockburn Town' added
+34 b'Kutum' added
+illoqqortoormiut does not exist
+35 b'Ilulissat' added
+illoqqortoormiut does not exist
+belushya guba does not exist
+36 b'Cidreira' added
+tarudant does not exist
+37 b'Mad\xc4\xabnat Sittah Ukt\xc5\xabbar' added
+tsihombe does not exist
+38 b'Giohar' added
+belushya guba does not exist
+barentsburg does not exist
+illoqqortoormiut does not exist
+barentsburg does not exist
+belushya guba does not exist
+39 b'Laguna' added
+40 b'Leh' added
+illoqqortoormiut does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+barentsburg does not exist
+taolanaro does not exist
+barentsburg does not exist
+grand river south east does not exist
+41 b'Colchester' added
+42 b'Riyadh' added
+43 b'Pawai' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+44 b'Votkinsk' added
+belushya guba does not exist
+45 b'Puerto del Rosario' added
+taolanaro does not exist
+46 b'Santander' added
+karaul does not exist
+barentsburg does not exist
+47 b'Constituci\xc3\xb3n' added
+48 b'Taltal' added
+barentsburg does not exist
+49 b'Los Llanos de Aridane' added
+Now writing to output file!
+0 b'Puteyets' added
+1 b'Masall\xc4\x81tah' added
+barentsburg does not exist
+2 b'Bambous Virieux' added
+sorvag does not exist
+3 b'Thunder Bay' added
+barentsburg does not exist
+barentsburg does not exist
+illoqqortoormiut does not exist
+4 b'R\xc3\xado Gallegos' added
+5 b'Chik' added
+6 b'Rocha' added
+illoqqortoormiut does not exist
+7 b'Qaqortoq' added
+baboua does not exist
+barentsburg does not exist
+8 b"Ust'-Koksa" added
+9 b'Hobyo' added
+illoqqortoormiut does not exist
+10 b'Nanortalik' added
+11 b'Yuzhnyy' added
+12 b'Manta' added
+13 b'Southampton' added
+14 b'Gond\xc4\x81 City' added
+15 b'Vestmannaeyjar' added
+belushya guba does not exist
+16 b'Durusu' added
+17 b'Altay' added
+18 b'Ponta do Sol' added
+19 b'Itarema' added
+barentsburg does not exist
+20 b'Mossamedes' added
+belushya guba does not exist
+21 b'Thinadhoo' added
+barentsburg does not exist
+Now writing to output file!
+0 b'S\xc3\xa3o F\xc3\xa9lix do Xingu' added
+1 b'Rawson' added
+2 b'Skjerv\xc3\xb8y' added
+3 b'Beloha' added
+4 b'Santa In\xc3\xaas' added
+belushya guba does not exist
+karakendzha does not exist
+illoqqortoormiut does not exist
+taolanaro does not exist
+5 b'Kagadi' added
+karaul does not exist
+illoqqortoormiut does not exist
+navabad does not exist
+6 b'La Peca' added
+barentsburg does not exist
+7 b'Bongandanga' added
+illoqqortoormiut does not exist
+taolanaro does not exist
+tsihombe does not exist
+8 b'Pisco' added
+9 b'Sambava' added
+10 b'Kirovsk' added
+11 b'Belyy Yar' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+12 b'Caucay\xc3\xa1' added
+taolanaro does not exist
+13 b'Nola' added
+orgun does not exist
+grand river south east does not exist
+14 b'Manoel Urbano' added
+15 b'Tekeli' added
+barentsburg does not exist
+taolanaro does not exist
+warqla does not exist
+barentsburg does not exist
+16 b'Kilindoni' added
+17 b'Carauari' added
+18 b'Porosozero' added
+19 b'Rojhan' added
+20 b'Caravelas' added
+21 b'Gour\xc3\xa9' added
+22 b'Muravlenko' added
+23 b'Nanortalik' added
+belushya guba does not exist
+24 b'Carballo' added
+25 b'Liverpool' added
+26 b'Arauca' added
+27 b'Vard\xc3\xb8' added
+28 b'Rosetta' added
+barentsburg does not exist
+belushya guba does not exist
+29 b'Tarija' added
+belushya guba does not exist
+30 b'Keetmanshoop' added
+31 b'Brae' added
+32 b'Mbanza-Ngungu' added
+33 b'Mokobeng' added
+belushya guba does not exist
+taolanaro does not exist
+34 b'Antofagasta' added
+35 b'Itapirapu\xc3\xa3' added
+barentsburg does not exist
+barentsburg does not exist
+barentsburg does not exist
+barentsburg does not exist
+illoqqortoormiut does not exist
+attawapiskat does not exist
+36 b'Warwick' added
+belushya guba does not exist
+37 b'Talcahuano' added
+38 b'Axum' added
+39 b'Salamiyah' added
+barentsburg does not exist
+40 b'Takoradze' added
+saryshagan does not exist
+41 b'Vila Velha' added
+42 b'Ponta do Sol' added
+illoqqortoormiut does not exist
+illoqqortoormiut does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+43 b'Berlev\xc3\xa5g' added
+barentsburg does not exist
+ilinsko-podomskoye does not exist
+44 b'Belmonte' added
+45 b'Muscat' added
+amderma does not exist
+belushya guba does not exist
+barentsburg does not exist
+46 b'Makkah al Mukarramah' added
+47 b'Hesla' added
+illoqqortoormiut does not exist
+48 b'Plouzan\xc3\xa9' added
+49 b'Kurdzhinovo' added
+Now writing to output file!
+0 b'Poletayevo' added
+barentsburg does not exist
+illoqqortoormiut does not exist
+barentsburg does not exist
+1 b'San Miguel' added
+belushya guba does not exist
+2 b'Porto Torres' added
+3 b'Buchanan' added
+illoqqortoormiut does not exist
+4 b'Saint George' added
+5 b'Le\xc3\xb3n' added
+illoqqortoormiut does not exist
+6 b'Castro' added
+7 b'Medina' added
+skalistyy does not exist
+8 b'Vredendal' added
+9 b'Oxapampa' added
+saryshagan does not exist
+10 b'Fort-Shevchenko' added
+taolanaro does not exist
+11 b'Bambous Virieux' added
+12 b'L\xc4\xabsakovsk' added
+cockburn harbour does not exist
+13 b'Kangaatsiaq' added
+illoqqortoormiut does not exist
+grand river south east does not exist
+14 b'Mitsamiouli' added
+15 b'Praia da Vit\xc3\xb3ria' added
+16 b'Atar' added
+barentsburg does not exist
+17 b"Ust'-Koksa" added
+18 b'Garrel' added
+19 b'Aragua\xc3\xadna' added
+20 b'Honningsv\xc3\xa5g' added
+21 b'Pinega' added
+22 b'Rundu' added
+belushya guba does not exist
+23 b'Nioro' added
+24 b'Balkhash' added
+barentsburg does not exist
+25 b'Abh\xc4\x81' added
+26 b'Naliya' added
+27 b'Nouadhibou' added
+28 b'Baijiantan' added
+belushya guba does not exist
+barentsburg does not exist
+belushya guba does not exist
+29 b"Vasil'yevskiy Mokh" added
+30 b'Dakar' added
+grand river south east does not exist
+31 b'Goderich' added
+32 b'M\xc4\x81l\xc5\xabr' added
+33 b'Asw\xc4\x81n' added
+34 b'Qaqortoq' added
+barentsburg does not exist
+taolanaro does not exist
+35 b'Port Blair' added
+36 b'Marsh Harbour' added
+37 b'Hav\xc3\xb8ysund' added
+illoqqortoormiut does not exist
+38 b'Distrikt Brokopondo' added
+taolanaro does not exist
+39 b'Rzhishch\xc3\xabv' added
+40 b'Kannauj' added
+41 b'Karaton' added
+42 b'Arlit' added
+43 b'Lucapa' added
+44 b"Kargopol'" added
+45 b'Margate' added
+barentsburg does not exist
+46 b'Westport' added
+barentsburg does not exist
+taolanaro does not exist
+belushya guba does not exist
+barentsburg does not exist
+47 b'Bosaso' added
+48 b'Tartous' added
+taolanaro does not exist
+taolanaro does not exist
+liniere does not exist
+49 b'Pauini' added
+Now writing to output file!
+taolanaro does not exist
+illoqqortoormiut does not exist
+0 b'Ancud' added
+1 b'Druzhba' added
+2 b'Muzhi' added
+3 b'Boysun' added
+4 b'Tigzirt' added
+illoqqortoormiut does not exist
+5 b'San Cristobal' added
+6 b'Santa Marta' added
+illoqqortoormiut does not exist
+7 b'Carutapera' added
+8 b'Aden' added
+barentsburg does not exist
+9 b'Ruswil' added
+10 b'Malanje' added
+taolanaro does not exist
+barentsburg does not exist
+11 b'Macusani' added
+belushya guba does not exist
+belushya guba does not exist
+12 b'Vila Franca do Campo' added
+13 b'Gao' added
+14 b'Amap\xc3\xa1' added
+15 b'Safi' added
+grand river south east does not exist
+16 b'Tripoli' added
+17 b'Khanpur' added
+othonoi does not exist
+18 b'Konstanz' added
+barentsburg does not exist
+19 b'City of San Pedro' added
+belushya guba does not exist
+20 b'Mahon' added
+belushya guba does not exist
+21 b'Muhafazat Lahij' added
+22 b'Gistrup' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+23 b'T\xc3\xadas' added
+24 b'Arica' added
+25 b'Korla' added
+26 b'Madingou' added
+bolungarvik does not exist
+27 b'Mehamn' added
+amderma does not exist
+28 b'Paamiut' added
+29 b'Lichinga' added
+louisbourg does not exist
+30 b'Orsha' added
+31 b'Port-Gentil' added
+32 b'Baghmara' added
+illoqqortoormiut does not exist
+belushya guba does not exist
+barentsburg does not exist
+barentsburg does not exist
+tsihombe does not exist
+33 b'Normandin' added
+34 b'Jaqu\xc3\xa9' added
+35 b'Abn\xc5\xabb' added
+36 b'Zhezkazgan' added
+37 b'Robertsport' added
+38 b'Trelew' added
+39 b'Inverness' added
+40 b'T\xc3\xa9ra' added
+barentsburg does not exist
+barentsburg does not exist
+tiruvottiyur does not exist
+belushya guba does not exist
+41 b'Hualmay' added
+42 b'Santa Vit\xc3\xb3ria do Palmar' added
+43 b'Cap Malheureux' added
+taolanaro does not exist
+44 b'Saint-Louis' added
+45 b'Raudeberg' added
+barentsburg does not exist
+illoqqortoormiut does not exist
+46 b'Suceveni' added
+barentsburg does not exist
+barentsburg does not exist
+47 b'Florida' added
+48 b'Eyl' added
+49 b'Chapais' added
+Now writing to output file!
+0 b'Philadelphia' added
+barentsburg does not exist
+1 b'Pavino' added
+paradwip does not exist
+2 b'Kolosovka' added
+belushya guba does not exist
+3 b'Hinche' added
+illoqqortoormiut does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+4 b'Ramotswa' added
+5 b'Serik' added
+barentsburg does not exist
+grand river south east does not exist
+6 b'Eufaula' added
+illoqqortoormiut does not exist
+7 b'Saquena' added
+8 b'Zilupe' added
+amderma does not exist
+illoqqortoormiut does not exist
+barentsburg does not exist
+9 b'Athy' added
+10 b'Ayaviri' added
+barentsburg does not exist
+umzimvubu does not exist
+11 b'Richards Bay' added
+illoqqortoormiut does not exist
+attawapiskat does not exist
+taolanaro does not exist
+12 b'Lodja' added
+illoqqortoormiut does not exist
+13 b'Kashgar' added
+14 b'Bud' added
+belushya guba does not exist
+15 b'Yanam' added
+illoqqortoormiut does not exist
+taolanaro does not exist
+taolanaro does not exist
+16 b'Puerto Baquerizo Moreno' added
+barentsburg does not exist
+17 b'Khorramshahr' added
+18 b'Ma\xc5\xa3\xc4\x81y' added
+19 b'Ubinskoye' added
+20 b'Iqaluit' added
+21 b'Chapleau' added
+22 b'Saint-Augustin' added
+belushya guba does not exist
+barentsburg does not exist
+amderma does not exist
+barentsburg does not exist
+barentsburg does not exist
+23 b'S\xc3\xb8rland' added
+belushya guba does not exist
+skiros does not exist
+barentsburg does not exist
+24 b'Muli' added
+25 b'Cabedelo' added
+26 b'Guh\xc4\x81gar' added
+omutinskoye does not exist
+belushya guba does not exist
+belushya guba does not exist
+raurkela does not exist
+27 b'Bangassou' added
+28 b'Saint Anthony' added
+29 b'Liwale' added
+belushya guba does not exist
+30 b'Bilma' added
+31 b'Nuuk' added
+32 b'Campo Verde' added
+33 b'Nouakchott' added
+belushya guba does not exist
+barentsburg does not exist
+barentsburg does not exist
+34 b'Kushmurun' added
+illoqqortoormiut does not exist
+35 b'Bydgoszcz' added
+36 b'Bereda' added
+37 b'Mwinilunga' added
+38 b'Adr\xc3\xa9' added
+illoqqortoormiut does not exist
+39 b'Pangody' added
+taolanaro does not exist
+40 b'La Palma' added
+illoqqortoormiut does not exist
+41 b'Kayes' added
+42 b'Sharan' added
+illoqqortoormiut does not exist
+43 b'Talw\xc4\x81ra' added
+illoqqortoormiut does not exist
+44 b'Mayumba' added
+illoqqortoormiut does not exist
+barentsburg does not exist
+45 b'Mossamedes' added
+barentsburg does not exist
+46 b'Kemij\xc3\xa4rvi' added
+barentsburg does not exist
+belushya guba does not exist
+47 b'Rabak' added
+illoqqortoormiut does not exist
+48 b'Souillac' added
+49 b'Di\xc3\xb3sjen\xc5\x91' added
+Now writing to output file!
+illoqqortoormiut does not exist
+belushya guba does not exist
+0 b'Altay' added
+1 b'Marawi' added
+taolanaro does not exist
+2 b'Tessalit' added
+3 b'Or\xc3\xa1n' added
+4 b'Guanare' added
+barentsburg does not exist
+barentsburg does not exist
+5 b'Lincoln' added
+6 b'Gore' added
+illoqqortoormiut does not exist
+barentsburg does not exist
+7 b'Kismayo' added
+barentsburg does not exist
+8 b'Kyab\xc3\xa9' added
+9 b'Harpanahalli' added
+barentsburg does not exist
+belushya guba does not exist
+taolanaro does not exist
+illoqqortoormiut does not exist
+10 b'Yacuiba' added
+11 b'Luanda' added
+barentsburg does not exist
+12 b'Lima' added
+13 b'Greytown' added
+14 b'Conway' added
+barentsburg does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+15 b'Ombou\xc3\xa9' added
+16 b'Nueva Loja' added
+17 b'Punta Alta' added
+18 b'Constantine' added
+19 b'Purranque' added
+barentsburg does not exist
+barentsburg does not exist
+taolanaro does not exist
+belushya guba does not exist
+illoqqortoormiut does not exist
+20 b'Angul' added
+barentsburg does not exist
+21 b'Nz\xc3\xa9r\xc3\xa9kor\xc3\xa9' added
+illoqqortoormiut does not exist
+22 b'Lugovoy' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+23 b'Vestmanna' added
+24 b'Uglovskoye' added
+barentsburg does not exist
+25 b'Ondjiva' added
+26 b'Venezuela' added
+27 b'Benghazi' added
+28 b'Guderup' added
+29 b'Andenes' added
+30 b'Nizhnyaya Salda' added
+31 b'Buraidah' added
+32 b'Bhadr\xc4\x81chalam' added
+33 b'Sept-\xc3\x8eles' added
+illoqqortoormiut does not exist
+34 b'Doba' added
+35 b'Vazhiny' added
+Now writing to output file!
+0 b'Oussouye' added
+barentsburg does not exist
+umzimvubu does not exist
+belushya guba does not exist
+illoqqortoormiut does not exist
+1 b'Panab\xc3\xa1' added
+2 b'Soubre' added
+3 b'Olafsvik' added
+4 b'V\xc3\xa1gur' added
+5 b'Tazmalt' added
+belushya guba does not exist
+tarudant does not exist
+6 b'Ozar' added
+belushya guba does not exist
+grand river south east does not exist
+taolanaro does not exist
+illoqqortoormiut does not exist
+7 b'Cartagena del Chair\xc3\xa1' added
+8 b'Oruzgan' added
+taolanaro does not exist
+barentsburg does not exist
+barentsburg does not exist
+barentsburg does not exist
+9 b'Bethanien' added
+10 b'San Andr\xc3\xa9s' added
+belushya guba does not exist
+11 b'Podgornoye' added
+illoqqortoormiut does not exist
+12 b'Denizli Province' added
+barentsburg does not exist
+13 b'Andrushivka' added
+taolanaro does not exist
+tsihombe does not exist
+illoqqortoormiut does not exist
+amderma does not exist
+14 b'Buchmany' added
+15 b'Burgeo' added
+16 b'Hambantota' added
+belushya guba does not exist
+illoqqortoormiut does not exist
+belushya guba does not exist
+17 b'Lagoa' added
+18 b'Puerto Ayacucho' added
+19 b'Amod' added
+taolanaro does not exist
+20 b'Road Town' added
+21 b'Igrim' added
+22 b'Marzuq' added
+23 b'Malbork' added
+tsihombe does not exist
+24 b'Sanchursk' added
+attawapiskat does not exist
+illoqqortoormiut does not exist
+tsihombe does not exist
+barentsburg does not exist
+25 b'Mazag\xc3\xa3o' added
+26 b'Felipe Carrillo Puerto' added
+27 b'Bubaque' added
+28 b'El Porvenir' added
+29 b'Beyneu' added
+30 b'Aksu' added
+31 b'Amal\xc4\x81puram' added
+32 b'Arrondissement de Bastia' added
+33 b'Pal\xc4\x81sa' added
+34 b'Adelaide' added
+35 b'Ugoofaaru' added
+taolanaro does not exist
+36 b"Lebedyan'" added
+belushya guba does not exist
+37 b'Ila' added
+38 b'Inhambane' added
+belushya guba does not exist
+39 b'Picton' added
+barentsburg does not exist
+barentsburg does not exist
+40 b'S\xc3\xa3o Joaquim' added
+41 b'Kiryat Gat' added
+taolanaro does not exist
+umzimvubu does not exist
+42 b'Touros' added
+belushya guba does not exist
+astipalaia does not exist
+Now writing to output file!
+Illoqqortoormiut does not exist
+0 b'Huarmey' added
+Manalurpet does not exist
+Belushya guba does not exist
+Attawapiskat does not exist
+1 b'Muisne' added
+2 b'Pinar del R\xc3\xado' added
+3 b'S\xc3\xa3o Raimundo das Mangabeiras' added
+4 b'Agropoli' added
+5 b'Kalmunai' added
+Barentsburg does not exist
+6 b'Jacqueville' added
+7 b"Krasnosel'kup" added
+Belushya guba does not exist
+Belushya guba does not exist
+8 b'Barcelos' added
+9 b'Saint-Joseph' added
+10 b'Mbale' added
+Taolanaro does not exist
+11 b'Urengoy' added
+12 b'Manacapuru' added
+Illoqqortoormiut does not exist
+Barentsburg does not exist
+13 b'San Juan' added
+14 b'Ilh\xc3\xa9us' added
+Illoqqortoormiut does not exist
+Illoqqortoormiut does not exist
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+Attawapiskat does not exist
+15 b'Pocon\xc3\xa9' added
+Barentsburg does not exist
+Aflu does not exist
+16 b'Houma' added
+Barentsburg does not exist
+Belushya guba does not exist
+17 b'Adrar' added
+Belushya guba does not exist
+18 b'Aquiraz' added
+19 b'Humait\xc3\xa1' added
+20 b'Hvide Sande' added
+Illoqqortoormiut does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+21 b'Bandarbeyla' added
+22 b'Morondava' added
+Barentsburg does not exist
+23 b'Ambilobe' added
+24 b'Tazovsky' added
+25 b'The Valley' added
+Belushya guba does not exist
+26 b'Jalu' added
+Barentsburg does not exist
+27 b'Koslan' added
+Belushya guba does not exist
+Taolanaro does not exist
+28 b"Sol'-Iletsk" added
+29 b'Kiryat Gat' added
+Tsihombe does not exist
+30 b'Kathmandu' added
+31 b'Anamur' added
+32 b'Sikeston' added
+33 b'R\xc4\x81jsamand' added
+34 b'Puerto Ayora' added
+35 b'Olafsvik' added
+Taolanaro does not exist
+Tumannyy does not exist
+Lephepe does not exist
+36 b'Skotterud' added
+37 b'Sisimiut' added
+38 b'Pemba' added
+39 b'Ombou\xc3\xa9' added
+Barentsburg does not exist
+40 b'Zhanga\xc3\xb6zen' added
+Illoqqortoormiut does not exist
+41 b'Tanout' added
+42 b'Thinadhoo' added
+43 b'Putina' added
+44 b'Tourlaville' added
+Taolanaro does not exist
+45 b'Piet Retief' added
+Belushya guba does not exist
+Barentsburg does not exist
+Barentsburg does not exist
+Barentsburg does not exist
+46 b'Garoowe' added
+Barentsburg does not exist
+Barentsburg does not exist
+47 b'Torrington' added
+Barentsburg does not exist
+48 b'Chl\xc3\xb3rakas' added
+Belushya guba does not exist
+49 b'Khorixas' added
+Now writing to output file!
+0 b'Ilhabela' added
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+1 b'Bulawayo' added
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+Taolanaro does not exist
+2 b'N\xc3\xadsia Floresta' added
+Belushya guba does not exist
+Belushya guba does not exist
+3 b'Sj\xc3\xb8vegan' added
+4 b'Lohja' added
+Barentsburg does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+5 b'Reinosa' added
+Illoqqortoormiut does not exist
+6 b'C\xc3\xa2mara de Lobos' added
+Aflu does not exist
+7 b'La Asuncion' added
+8 b'Serowe' added
+9 b'La Man\xc3\xa1' added
+10 b'Maniitsoq' added
+Belushya guba does not exist
+11 b'Wattegama' added
+Amderma does not exist
+12 b'Nazca' added
+Barentsburg does not exist
+13 b'Valpara\xc3\xadso' added
+14 b'Lagoa' added
+Illoqqortoormiut does not exist
+Illoqqortoormiut does not exist
+Barentsburg does not exist
+Belushya guba does not exist
+15 b'Coxim' added
+16 b'Tsaratanana' added
+Barentsburg does not exist
+17 b'Imbituba' added
+Barentsburg does not exist
+18 b'Ban\xc3\xad' added
+19 b'Santo Ant\xc3\xb4nio do Leverger' added
+20 b'Abalak' added
+Bargal does not exist
+Belushya guba does not exist
+21 b'Birao' added
+Illoqqortoormiut does not exist
+22 b'San Miguel de Tucum\xc3\xa1n' added
+Barentsburg does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+23 b'Touros' added
+Barentsburg does not exist
+Barentsburg does not exist
+Belushya guba does not exist
+Belushya guba does not exist
+Belushya guba does not exist
+Illoqqortoormiut does not exist
+24 b'La Ba\xc3\xb1eza' added
+25 b'\xc4\xb0stisu' added
+26 b'Sayyan' added
+Taolanaro does not exist
+Louisbourg does not exist
+27 b'Polunochnoye' added
+28 b'Nioki' added
+Barentsburg does not exist
+29 b'Ugoofaaru' added
+30 b'Machinga' added
+31 b'Mosquera' added
+Barentsburg does not exist
+Belushya guba does not exist
+32 b'Yuzhnyy' added
+33 b'Strezhevoy' added
+Belushya guba does not exist
+34 b'Jardim' added
+Illoqqortoormiut does not exist
+Illoqqortoormiut does not exist
+Taolanaro does not exist
+Belushya guba does not exist
+Barentsburg does not exist
+35 b'Sukhumi' added
+36 b'Tessalit' added
+37 b'Port Hawkesbury' added
+38 b'Disna' added
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+Amderma does not exist
+39 b'Grand-Santi' added
+40 b'San Francisco' added
+41 b'Bubaque' added
+Illoqqortoormiut does not exist
+42 b'Peniche' added
+43 b'Kankan' added
+44 b'Lobito' added
+45 b'Vangaindrano' added
+46 b'Kletskaya' added
+47 b'Saint-Fran\xc3\xa7ois' added
+48 b'Pastos Bons' added
+Illoqqortoormiut does not exist
+Illoqqortoormiut does not exist
+49 b'Henties Bay' added
+Now writing to output file!
+0 b'Zaraza' added
+Illoqqortoormiut does not exist
+1 b'Paran\xc3\xa1' added
+2 b'Gunjur' added
+Barentsburg does not exist
+3 b'Emba' added
+4 b'Bah\xc3\xada Honda' added
+Belushya guba does not exist
+Barentsburg does not exist
+5 b'Mwene-Ditu' added
+6 b'Mabaruma' added
+Illoqqortoormiut does not exist
+Barentsburg does not exist
+7 b"Gur'yevsk" added
+Warqla does not exist
+8 b'Beira' added
+Agva does not exist
+Barentsburg does not exist
+Tsihombe does not exist
+9 b'Coyhaique' added
+10 b'Murmansk Oblast' added
+Illoqqortoormiut does not exist
+Taolanaro does not exist
+11 b'Salinas' added
+Barentsburg does not exist
+12 b'Pleszew' added
+Barentsburg does not exist
+Taolanaro does not exist
+13 b'Soyo' added
+14 b'Kung\xc3\xa4lv' added
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+15 b'Tulu\xc3\xa1' added
+16 b'Porto Walter' added
+Attawapiskat does not exist
+17 b'Mlalo' added
+Handwara does not exist
+18 b'Paita' added
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+Amderma does not exist
+Illoqqortoormiut does not exist
+19 b'Misratah' added
+20 b'Talnakh' added
+21 b'Vilhena' added
+22 b'Moundsville' added
+Mrirt does not exist
+Tsihombe does not exist
+23 b'Zahnitkiv' added
+Barentsburg does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+24 b'Natal' added
+25 b'Aracati' added
+26 b'Bonavista' added
+27 b'Grand-Lahou' added
+Illoqqortoormiut does not exist
+28 b'Najr\xc4\x81n' added
+29 b'Chalmette' added
+Illoqqortoormiut does not exist
+30 b'Santa Maria' added
+31 b'R\xc3\xb8rvik' added
+Barentsburg does not exist
+32 b'Juba' added
+33 b'Gouyave' added
+34 b'Dzerzhinsk' added
+35 b'Ipatovo' added
+36 b'Cascais' added
+37 b'Harper' added
+38 b'Arua' added
+Illoqqortoormiut does not exist
+Amderma does not exist
+39 b'Sistranda' added
+Barentsburg does not exist
+40 b'Suslovo' added
+Belushya guba does not exist
+Barentsburg does not exist
+Amderma does not exist
+Belushya guba does not exist
+41 b'Kaputa' added
+Belushya guba does not exist
+Illoqqortoormiut does not exist
+42 b'Santa Fe' added
+43 b'Avanigadda' added
+44 b'Hendaye' added
+45 b'Mikhaylovka' added
+46 b'Marmaris' added
+47 b'Sharlyk' added
+48 b'Josh\xc4\xabmath' added
+49 b'Koungheul' added
+Now writing to output file!
+0 b'Moura' added
+1 b'Morwa' added
+Cazaje does not exist
+Odemis does not exist
+2 b'Ati' added
+Belushya guba does not exist
+Barentsburg does not exist
+3 b'In\xc3\xadrida' added
+Taolanaro does not exist
+4 b'Tyup' added
+5 b'S\xc3\xa3o Gabriel da Cachoeira' added
+6 b'Chunian' added
+7 b'Turbat' added
+8 b'Macei\xc3\xb3' added
+9 b'Esim' added
+10 b'Balsas' added
+11 b'Thurso' added
+12 b'Kyzyl-Suu' added
+13 b'Plettenberg Bay' added
+14 b'Havre-St-Pierre' added
+15 b'G\xc3\xb6ksun' added
+16 b'Mocuba' added
+Lemesos does not exist
+17 b'Salin\xc3\xb3polis' added
+Illoqqortoormiut does not exist
+18 b'Pe\xc4\x8dky' added
+19 b'Sabha' added
+Marcona does not exist
+20 b'Mandsaur' added
+21 b'Hobyo' added
+22 b'Itaituba' added
+23 b'Umluj' added
+24 b'La Serena' added
+Kuche does not exist
+25 b'Goian\xc3\xa9sia' added
+26 b'Estelle' added
+27 b'Hearst' added
+28 b'\xc3\x96stersund' added
+29 b'Satka' added
+30 b'Qasigiannguit' added
+31 b'Burla' added
+Zhanatas does not exist
+32 b'Smiths Falls' added
+Bolungarvik does not exist
+Ozgon does not exist
+33 b'Bok\xc3\xa9' added
+34 b'Koltubanovskiy' added
+35 b'Padang' added
+36 b'Hambantota' added
+37 b'Andenes' added
+38 b'La Rioja' added
+39 b'Urambo' added
+Amderma does not exist
+40 b'Bandiagara' added
+41 b'Z\xc5\x82otoryja' added
+42 b'Pascagoula' added
+43 b'Voghera' added
+44 b'Santa Rita' added
+45 b'Saryozek' added
+46 b'Dokka' added
+47 b'Pervomayskoye' added
+48 b'Santa Rosa' added
+49 b'Ger\xc4\x81sh' added
+Now writing to output file!
+0 b'Terr\xc3\xa5k' added
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+1 b'Sargatskoye' added
+2 b'Lagos' added
+Azimur does not exist
+3 b'K\xc4\x81nkon' added
+4 b'Chancay' added
+5 b'Libertador General San Mart\xc3\xadn' added
+6 b'Pontal' added
+Belushya guba does not exist
+7 b'Derbent' added
+8 b'Ilebo' added
+9 b'Tsabong' added
+Attawapiskat does not exist
+10 b"Krasnyy Oktyabr'" added
+Taolanaro does not exist
+11 b'Kiruna' added
+12 b'Itarema' added
+13 b'Saint-Pierre' added
+Tsihombe does not exist
+14 b'Wilmington' added
+Cape elizabeth does not exist
+Marcona does not exist
+Killini does not exist
+15 b'W\xc4\x81di' added
+16 b'Orange Walk District' added
+17 b'Casa Nova' added
+18 b'Storforshei' added
+Agva does not exist
+19 b'Luanda' added
+20 b'Allonnes' added
+21 b'Nibbar' added
+22 b'Manta' added
+Grand river south east does not exist
+23 b'Doka' added
+24 b'Aleksandrov Gay' added
+Amderma does not exist
+25 b'Dekar' added
+26 b'H\xc3\xa4rn\xc3\xb6sand' added
+27 b'Povenets' added
+28 b'Montepuez' added
+29 b'Alta Floresta' added
+30 b'Coro' added
+31 b'Sari' added
+Bolshiye klyuchishchi does not exist
+32 b'Carnarvon' added
+33 b'Sharjah city' added
+34 b'Copiap\xc3\xb3' added
+35 b'Porto Santo' added
+36 b'Am Timan' added
+37 b'R\xc5\xabdb\xc4\x81r' added
+38 b'Abonnema' added
+39 b'Keflavik' added
+40 b'Moreira Sales' added
+41 b'Olbia' added
+Kazalinsk does not exist
+42 b'Kaduy' added
+Bargal does not exist
+43 b'Boda' added
+44 b'\xc4\x80sbe Tefer\xc4\xab' added
+45 b'Ajdabiya' added
+46 b'Altay' added
+47 b'Varhaug' added
+48 b'San Fernando del Valle de Catamarca' added
+49 b'Oskarshamn' added
+Now writing to output file!
+Barentsburg does not exist
+0 b'Al\xc5\xabr' added
+1 b'Contamana' added
+Afgoye does not exist
+2 b'Saint-Junien' added
+3 b'Trencin' added
+4 b'Asunci\xc3\xb3n' added
+5 b'Bauchi' added
+6 b'Necochea' added
+Bargal does not exist
+Taolanaro does not exist
+7 b'Havelock' added
+8 b'Mars\xc3\xa1 Ma\xc5\xa3r\xc5\xab\xe1\xb8\xa9' added
+Illoqqortoormiut does not exist
+Deh rawud does not exist
+9 b'Termoli' added
+Doctor pedro p. pena does not exist
+10 b'Cururupu' added
+11 b'Kavos' added
+12 b'Cartagena' added
+13 b'Bria' added
+14 b'Novoagansk' added
+15 b'Ode' added
+16 b'Zanesville' added
+17 b'S\xc3\xa3o Mateus' added
+Saryshagan does not exist
+18 b'Lieksa' added
+Grand river south east does not exist
+19 b'Sabang' added
+Ambodifototra does not exist
+20 b'Ngerengere' added
+Belushya guba does not exist
+21 b'Rocha' added
+22 b'Pimenta Bueno' added
+Magui does not exist
+23 b'Salm\xc4\x81s' added
+Manalurpet does not exist
+24 b'Mara\xc3\xa3' added
+25 b'Ballina' added
+26 b'Nefteyugansk' added
+27 b'Tonantins' added
+28 b'Mgandu' added
+29 b'Pokhara' added
+30 b'Zalaszentgr\xc3\xb3t' added
+31 b'Ponta Delgada' added
+32 b'Fes' added
+33 b'Fianarantsoa' added
+Tsihombe does not exist
+34 b'Santa Isabel Rio Negro' added
+35 b'Kitob' added
+36 b'Hargeisa' added
+37 b'Ipixuna' added
+Attawapiskat does not exist
+38 b'Yangambi' added
+39 b"Ust'-Kulom" added
+40 b'Massakory' added
+41 b'Oromocto' added
+42 b'Arrecife' added
+43 b'Msanga' added
+44 b'Marrakesh' added
+45 b'Fethiye' added
+46 b'Buciumi' added
+47 b'Masuguru' added
+48 b'Mulch\xc3\xa9n' added
+49 b'Calceta' added
+Now writing to output file!
+Barentsburg does not exist
+0 b'Algiers' added
+1 b'Tucuru\xc3\xad' added
+Attawapiskat does not exist
+Belushya guba does not exist
+Taolanaro does not exist
+2 b'Solenzo' added
+3 b'Kargil' added
+4 b'Puerto Madryn' added
+5 b'Onega' added
+6 b'Vestmannaeyjar' added
+7 b'Marawi' added
+8 b'Son\xc4\xabpat' added
+9 b'Anj\xc4\x81r' added
+10 b'Karpathos' added
+Yalchiki does not exist
+11 b'Ab\xc5\xab Zabad' added
+Illoqqortoormiut does not exist
+12 b'Adrian' added
+Abu jubayhah does not exist
+13 b'Malindi' added
+14 b'Devrek' added
+15 b'Guaruj\xc3\xa1' added
+16 b'Reconquista' added
+17 b'Walvis Bay' added
+18 b'Viedma' added
+19 b'Troitskoye' added
+20 b'Saltpond' added
+21 b'Pasni' added
+22 b'Siderno' added
+23 b'Bull Savanna' added
+24 b'R\xc4\x81wah' added
+25 b'Ibicu\xc3\xad' added
+26 b'V\xc3\xa5g\xc3\xa5mo' added
+Tsihombe does not exist
+Amderma does not exist
+27 b'Juruti' added
+28 b'Ak\xc3\xa7akoca' added
+29 b'Khor' added
+30 b'Dhidhdhoo' added
+31 b'Da\xc5\x9foguz' added
+32 b'Patan' added
+33 b'San Andr\xc3\xa9s' added
+34 b'Karachev' added
+35 b'El Batey' added
+36 b'M\xc4\xabn\xc4\x81b' added
+37 b'Portmore' added
+Solsvik does not exist
+38 b'Ous' added
+39 b'Assiut' added
+40 b'Chik' added
+41 b'Albion' added
+42 b'Vallenar' added
+43 b'Springbok' added
+44 b'Anloga' added
+45 b'Prado' added
+46 b'Saman\xc3\xa1' added
+47 b'Abu Dhabi' added
+48 b'Mora' added
+49 b'Sumbawanga' added
+Now writing to output file!
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+0 b'Kautokeino' added
+Tsihombe does not exist
+1 b'Kajaani' added
+Belushya guba does not exist
+2 b'Harmanli' added
+Amderma does not exist
+3 b'Podgornoye' added
+4 b'Bethanien' added
+Barentsburg does not exist
+Karakendzha does not exist
+Kazalinsk does not exist
+5 b'S\xc3\xa3o Jos\xc3\xa9 de Ribamar' added
+6 b'S\xc3\xa3o Francisco' added
+Grand river south east does not exist
+7 b'Otavi' added
+8 b'Espa\xc3\xb1ola' added
+Umzimvubu does not exist
+9 b'Cochrane' added
+10 b'Kindu' added
+11 b'Ponte de S\xc3\xb4r' added
+12 b'Sinnai' added
+13 b'Mogadishu' added
+14 b'Kalemie' added
+15 b'Guadalajara' added
+16 b'Caraquet' added
+17 b'Lahijan' added
+Louisbourg does not exist
+18 b'W\xc4\x81sh\xc4\xabm' added
+19 b'Gadsden' added
+20 b'Holice' added
+21 b'Deep River' added
+22 b'Wagar' added
+23 b'Sakhnovshchyna' added
+24 b'Rock Hill' added
+25 b'Santa Ana' added
+26 b'Buraidah' added
+Tumannyy does not exist
+27 b'Piedecuesta' added
+28 b'Krasnyy Kholm' added
+29 b'Turukhansk' added
+30 b'Dolores' added
+31 b'Arrondissement de Narbonne' added
+Solovetskiy does not exist
+32 b'Ifakara' added
+33 b'Kharp' added
+34 b'Libenge' added
+35 b'St. Pete Beach' added
+36 b'Tevriz' added
+37 b'Santa Cruz de la Sierra' added
+38 b'Y\xc4\x81r\xc4\x81da' added
+39 b'Ayagoz' added
+40 b'Berb\xc3\xa9rati' added
+41 b'Formosa do Rio Preto' added
+Achisay does not exist
+42 b'Batangafo' added
+43 b'Coihueco' added
+44 b"Yashkul'" added
+45 b'Tortol\xc3\xac' added
+46 b'Nieuw Nickerie' added
+47 b'S\xc3\xa3o Miguel' added
+48 b'Thika' added
+49 b'Miandrivazo' added
+Now writing to output file!
+Barentsburg does not exist
+0 b'Forest' added
+1 b'Tres Arroyos' added
+Illoqqortoormiut does not exist
+2 b'Kayerkan' added
+3 b'Kamenka' added
+4 b'Oranjestad' added
+5 b'Carbonear' added
+6 b'Novosibirsk' added
+7 b'Iskateley' added
+8 b'Nizw\xc3\xa1' added
+Amderma does not exist
+9 b'Adwa' added
+10 b"Poddor'ye" added
+Marcona does not exist
+Taolanaro does not exist
+Belushya guba does not exist
+11 b'Abadan' added
+12 b'Micheweni' added
+Glubokoe does not exist
+13 b'Cinnaminson' added
+Tumannyy does not exist
+14 b'Ribeira Brava' added
+15 b'Portsmouth' added
+16 b'Puerto Cabezas' added
+17 b'Quetta' added
+18 b'Mattru' added
+19 b'Kodino' added
+20 b'Drabiv' added
+Skalistyy does not exist
+Othonoi does not exist
+Tsihombe does not exist
+Grand river south east does not exist
+21 b'Port Shepstone' added
+22 b'Maicao' added
+23 b'Mumbai' added
+24 b'Inongo' added
+25 b'De\xc5\xablgaon R\xc4\x81ja' added
+Sorvag does not exist
+26 b'Boca do Acre' added
+27 b'Pitimbu' added
+28 b'Meleuz' added
+29 b'T\xc3\xa9miscaming' added
+30 b'Miracema do Tocantins' added
+31 b'Chicama' added
+32 b'Balad' added
+33 b'Tubual\xc3\xa1' added
+34 b'Kirkwall' added
+35 b'Biltine' added
+Old road does not exist
+36 b'Starachowice' added
+Attawapiskat does not exist
+Tawnat does not exist
+37 b'N\xc4\x81l\xc5\xabt' added
+38 b'Kingussie' added
+39 b'Ambovombe' added
+40 b'Constantine' added
+41 b'S\xc3\xa3o Jos\xc3\xa9 da Coroa Grande' added
+42 b'Kismayo' added
+43 b'Presidencia Roque S\xc3\xa1enz Pe\xc3\xb1a' added
+44 b'Saint Andrews' added
+45 b'Anuradhapura' added
+46 b'Villa Sandino' added
+47 b'Karlskrona' added
+48 b'Conchas' added
+49 b'Cua' added
+Now writing to output file!
+0 b'Cienfuegos' added
+1 b'Syracuse' added
+Taolanaro does not exist
+2 b'Horasan' added
+3 b'\xc3\x85rdalstangen' added
+Illoqqortoormiut does not exist
+4 b'Holetown' added
+Amderma does not exist
+5 b'Bam' added
+6 b'Jumla' added
+7 b'Voinka' added
+8 b'Yako' added
+Barentsburg does not exist
+9 b'Killybegs' added
+10 b'Alberton' added
+11 b'Iquique' added
+12 b'Farnes' added
+13 b'\xc5\xa2ah\xc5\xa3\xc4\x81' added
+Belushya guba does not exist
+14 b'Knysna' added
+Takob does not exist
+15 b'Barentu' added
+16 b'Gornopravdinsk' added
+17 b'Ambo' added
+18 b'Atas\xc5\xab' added
+19 b'Teguise' added
+20 b'Yenagoa' added
+21 b'Saw\xc4\x81kin' added
+22 b'Aktas' added
+23 b'Mount Darwin' added
+Grand river south east does not exist
+24 b'Cernat' added
+25 b'Cotonou' added
+26 b'Mangai' added
+27 b'Le Vauclin' added
+28 b'Dovers' added
+29 b'Beyneu' added
+30 b'Igarka' added
+31 b'Esfar\xc4\x81yen' added
+32 b'Kreuztal' added
+33 b'Kal\xc4\x81leh' added
+34 b'Novokuznetsk' added
+Zlatarica does not exist
+Attawapiskat does not exist
+Karauzyak does not exist
+35 b'Ploemeur' added
+36 b'Altamira' added
+37 b'Delvin\xc3\xab' added
+38 b'Bousso' added
+39 b'Frunze' added
+40 b'Darnah' added
+41 b'Guarar\xc3\xa9' added
+42 b'Shache' added
+43 b'Luj\xc3\xa1n' added
+44 b'Flor\xc3\xb8' added
+45 b"Tegul'det" added
+46 b'Intipuc\xc3\xa1' added
+47 b'Marzuq' added
+48 b'Janu\xc3\xa1ria' added
+49 b'Chipinge' added
+Now writing to output file!
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+Geresk does not exist
+0 b'Minsk' added
+1 b"Kem'" added
+Barentsburg does not exist
+2 b'Province of Trapani' added
+3 b'Gweta' added
+Attawapiskat does not exist
+4 b'Esmeraldas' added
+5 b'Goya' added
+Skagastrond does not exist
+Yirol does not exist
+6 b'Ver\xc4\x81val' added
+7 b'C\xc3\xb3rdoba' added
+8 b'Miquelon' added
+Azar shahr does not exist
+9 b'Durban' added
+10 b'Aasiaat' added
+11 b'Tr\xc3\xaas Lagoas' added
+12 b'B\xc4\x81fq' added
+13 b'Mitzic' added
+14 b'Jacmel' added
+15 b'Nowshera' added
+16 b'Qandala' added
+17 b'Koutiala' added
+18 b'Sh\xc4\xabeli' added
+Amderma does not exist
+Anar darreh does not exist
+19 b'Mana' added
+Grand river south east does not exist
+20 b'Volokolamsk' added
+21 b'Livramento' added
+22 b'Aparecida do Taboado' added
+Viligili does not exist
+23 b'Aykino' added
+24 b'Zermatt' added
+25 b'Kasane' added
+26 b'Canutama' added
+27 b'Turaif' added
+28 b"Samus'" added
+29 b'Bajos de Haina' added
+30 b'Yining' added
+31 b'Przasnysz' added
+32 b'Waterlooville' added
+33 b'Campbellton' added
+Armacao dos buzios does not exist
+34 b'Sucre' added
+35 b'Lethem' added
+Umm durman does not exist
+36 b'Cambar\xc3\xa1' added
+37 b'New Bern' added
+Masjed-e soleyman does not exist
+Magui does not exist
+38 b'Chu' added
+39 b'Pelym' added
+40 b'Umba' added
+41 b'Marathon' added
+42 b'Kattiv\xc4\x81kkam' added
+43 b'Den Helder' added
+Bolungarvik does not exist
+44 b'Gryfice' added
+45 b'Puerto Ayacucho' added
+46 b'Wani' added
+47 b'R\xc3\xado Gallegos' added
+48 b'Caranavi' added
+49 b'Arrondissement de Limoux' added
+Now writing to output file!
+0 b'M\xc4\x81ngrol' added
+Ituni does not exist
+1 b'Bah\xc3\xada Blanca' added
+2 b'Traverse City' added
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+3 b'Araouane' added
+4 b'L\xc3\xa1brea' added
+5 b'Amurrio' added
+6 b'Nicoya' added
+7 b'Kapoeta' added
+Barentsburg does not exist
+8 b'Mikkeli' added
+9 b'Tysmenytsya' added
+10 b'Sidi Ali' added
+11 b'Buta' added
+12 b'Artvin Province' added
+13 b'Calatayud' added
+Bolungarvik does not exist
+14 b'Nokaneng' added
+15 b'Naruja' added
+16 b'Sturgeon Falls' added
+17 b'Poim' added
+18 b'Sergeevka' added
+19 b'Inhambane' added
+20 b'Tandlianwala' added
+21 b'Storslett' added
+Inderborskiy does not exist
+22 b'Pedra Azul' added
+Taolanaro does not exist
+Amderma does not exist
+23 b'Lucea' added
+24 b'Ortigueira' added
+25 b"Arrondissement d'Issoudun" added
+26 b'Nemyriv' added
+Primore does not exist
+27 b'Malm' added
+28 b'Novyye Burasy' added
+29 b'Ormond Beach' added
+30 b'Colomi' added
+31 b'Lima' added
+Grand river south east does not exist
+Now writing to output file!
+Belushya guba does not exist
+0 b'Golspie' added
+1 b'Yukamenskoye' added
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+2 b'Vista Hermosa' added
+3 b'Bah\xc3\xada Blanca' added
+Tumannyy does not exist
+4 b'Rindal' added
+5 b'Samarkand' added
+6 b'Vestmanna' added
+Attawapiskat does not exist
+Barentsburg does not exist
+7 b'Yokadouma' added
+8 b'Adzop\xc3\xa9' added
+Malwan does not exist
+9 b'Falmouth' added
+Amderma does not exist
+10 b'Japura' added
+11 b'Formosa' added
+12 b'Turochak' added
+13 b'Wunsiedel' added
+14 b"Oktyabr'skiy" added
+Tsihombe does not exist
+15 b'Southbridge' added
+16 b'Romans-sur-Is\xc3\xa8re' added
+17 b'Fasa' added
+18 b'M\xc4\x81ngrol' added
+19 b'Dar\xc5\x82owo' added
+20 b'George' added
+Barawe does not exist
+21 b'Sakakah' added
+22 b'Gberia Fotombu' added
+Sorvag does not exist
+23 b'Praia' added
+Marcona does not exist
+24 b'Urazovo' added
+25 b'Casablanca' added
+Talawdi does not exist
+26 b'Menongue' added
+27 b'Mestia' added
+28 b'Cravo Norte' added
+29 b'Departamento de Maldonado' added
+30 b'Kambove' added
+31 b'Pimentel' added
+32 b'Cavalcante' added
+33 b'Wala' added
+34 b'Araouane' added
+35 b'Petra' added
+36 b'K\xc5\x82obuck' added
+Hunza does not exist
+Tarudant does not exist
+37 b'Agadir' added
+38 b'Elizabeth City' added
+39 b'Punta Alta' added
+Port-de-paix does not exist
+40 b'El Real de Santa Maria' added
+41 b'Quthing' added
+42 b'Dogondoutchi' added
+Formoso do araguaia does not exist
+Umzimvubu does not exist
+43 b'Dabakala' added
+44 b'Channel-Port aux Basques' added
+45 b'Stornoway' added
+Urdzhar does not exist
+46 b'Macomer' added
+47 b'Neustadt an der Waldnaab' added
+48 b'Zelenoborsk' added
+49 b'Mglin' added
+Now writing to output file!
+Belushya guba does not exist
+Barentsburg does not exist
+0 b'Stulovo' added
+Tsihombe does not exist
+Amderma does not exist
+1 b'Safaga' added
+Illoqqortoormiut does not exist
+2 b'Adet' added
+3 b"St. George's" added
+Taolanaro does not exist
+4 b'Alakurtti' added
+5 b'Bj\xc3\xb8rnevatn' added
+6 b'Novoselezn\xc3\xabvo' added
+Tarudant does not exist
+7 b'Catumbela' added
+Talawdi does not exist
+8 b'Alliance' added
+9 b'Bucarasica' added
+10 b'S\xc3\xa9mb\xc3\xa9' added
+11 b'Tarko-Sale' added
+12 b'Kosa' added
+13 b'Santo Tomas' added
+14 b'Vila do Maio' added
+15 b'Nybro' added
+16 b'Zemio' added
+Attawapiskat does not exist
+17 b'Marquette' added
+Hendijan does not exist
+18 b'Kumluca' added
+19 b'Indiana' added
+Louisbourg does not exist
+20 b'Matara' added
+21 b'El Guamo' added
+22 b'Visby' added
+23 b'Pal\xc4\x81sa' added
+24 b'S\xc3\xb6derhamn' added
+25 b'Itarantim' added
+26 b'Umm Kaddadah' added
+27 b'Bumba' added
+28 b'Tonneins' added
+Umzimvubu does not exist
+Mutsamudu does not exist
+29 b'Mundgod' added
+30 b'Cerinza' added
+31 b"Gal'bshtadt" added
+32 b'Tirat Carmel' added
+33 b'Guamo' added
+34 b'Nicoya' added
+35 b'Kontagora' added
+36 b'Bedford' added
+37 b'Boone' added
+38 b'Butterworth' added
+39 b'Inhambane' added
+40 b'\xc3\x9cr\xc3\xbcmqi' added
+41 b'\xc4\x80bd\xc4\x81n\xc4\x81n' added
+42 b'Sovetskiy' added
+43 b'Pachino' added
+44 b'Goundam' added
+45 b'Lamu' added
+Marcona does not exist
+46 b'Manitouwadge' added
+Grand river south east does not exist
+47 b'Dudinka' added
+48 b'Jarom\xc4\x9b\xc5\x99ice nad Rokytnou' added
+49 b'Tingi' added
+Now writing to output file!
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+0 b'Kadyy' added
+Yusva does not exist
+Belushya guba does not exist
+Barentsburg does not exist
+1 b'Tambura' added
+2 b'Sertan\xc3\xb3polis' added
+3 b'San Rafael' added
+4 b'Kalyazin' added
+5 b'Setermoen' added
+Tsihombe does not exist
+6 b'Hazleton' added
+7 b'Corinth' added
+8 b'K\xc4\x81zer\xc5\xabn' added
+9 b"Sol'vychegodsk" added
+10 b'Derzhav\xc4\xabnsk' added
+Karkaralinsk does not exist
+11 b'Humboldt' added
+Umzimvubu does not exist
+12 b'Tonstad' added
+13 b'Surgut' added
+14 b'Tadpatri' added
+15 b'Blagoyevo' added
+16 b'Aripuan\xc3\xa3' added
+17 b'Storsteinnes' added
+18 b'Rognan' added
+19 b'Patitiri' added
+20 b'Road Town' added
+21 b'Mariental' added
+22 b'Raja' added
+Marcona does not exist
+23 b'Antri' added
+24 b'Tall Kayf' added
+25 b'S\xc3\xa3o Miguel do Araguaia' added
+26 b'Lubango' added
+27 b'Amalner' added
+28 b'Maralal' added
+29 b'Beroroha' added
+30 b'Rovenki' added
+31 b'Katsina' added
+32 b'V\xc3\xa9lingara' added
+33 b'Pervomayskiy' added
+34 b'Tchaourou' added
+35 b'Troms\xc3\xb8' added
+Shchelyayur does not exist
+36 b'Samara Oblast' added
+Grand river south east does not exist
+37 b'Gemeente Rheden' added
+38 b'Bida' added
+Tumannyy does not exist
+39 b'Mafinga' added
+40 b'Irec\xc3\xaa' added
+41 b'Aksay' added
+42 b'Esna' added
+43 b'Tambo' added
+44 b'Kisangani' added
+45 b'R\xc4\x81msh\xc4\xabr' added
+46 b'Colares' added
+47 b'Makat' added
+Amderma does not exist
+48 b'Syamzha' added
+Westpunt does not exist
+49 b'Moose Factory' added
+Now writing to output file!
+Illoqqortoormiut does not exist
+Belushya guba does not exist
+0 b'Gurupi' added
+Barentsburg does not exist
+1 b'Sennoy' added
+Amderma does not exist
+2 b'Lima' added
+Wa does not exist
+Tsihombe does not exist
+3 b'Pauri' added
+4 b'Somerset' added
+5 b'Fougamou' added
+6 b'Tete' added
+7 b'Cap-Chat' added
+8 b'Padampur' added
+9 b'Eyemouth' added
+10 b'Kikwit' added
+11 b"Parabel'" added
+Maghama does not exist
+Grand river south east does not exist
+Mocambique does not exist
+Taolanaro does not exist
+Viligili does not exist
+12 b'Awjilah' added
+13 b'Batken' added
+14 b'Tiznit Province' added
+15 b'Osakarovka' added
+16 b'Boali' added
+17 b'Arona' added
+18 b'M\xc4\xabr\xc4\x81b\xc4\x81d' added
+19 b'Sioux Lookout' added
+20 b'Marsala' added
+Umzimvubu does not exist
+Toliary does not exist
+21 b'Gorom-Gorom' added
+22 b'Rovaniemi' added
+23 b'Santiago' added
+24 b'Koyima' added
+25 b'Banda Aceh' added
+26 b'Quime' added
+27 b'Florence' added
+28 b'Rebrikha' added
+29 b'Bakel' added
+30 b'Timizart' added
+31 b'Waterloo' added
+Tarudant does not exist
+Sorvag does not exist
+Marcona does not exist
+32 b'Marsaxlokk' added
+33 b'Verkhnyaya Inta' added
+34 b'Yarmouth' added
+35 b'Arivonimamo' added
+36 b'Hon\xc4\x81var' added
+37 b'Gachsaran' added
+38 b'Nur-Sultan' added
+Skalistyy does not exist
+Bolshiye uki does not exist
+Tapaua does not exist
+Now writing to output file!
+Belushya guba does not exist
+Illoqqortoormiut does not exist
+Taolanaro does not exist
+0 b'Mariehamn' added
+Barentsburg does not exist
+1 b'Minna' added
+2 b'Panab\xc3\xa1' added
+3 b'Lambar\xc3\xa9n\xc3\xa9' added
+Tsihombe does not exist
+4 b'Kouango' added
+5 b'Senno' added
+6 b'Riohacha' added
+7 b'\xc3\x98ksfjord' added
+Tumannyy does not exist
+8 b'Traipu' added
+9 b'Aragar\xc3\xa7as' added
+10 b'Madona' added
+11 b'Porto de Moz' added
+12 b'Kirchzarten' added
+13 b'Khislavichi' added
+Ozgon does not exist
+Amderma does not exist
+Yirol does not exist
+14 b'Aksarka' added
+Qabis does not exist
+Attawapiskat does not exist
+15 b'V\xc3\xa1gur' added
+16 b'Desaguadero' added
+17 b'Loukhi' added
+18 b'Tunceli' added
+19 b'Lakhisarai' added
+20 b'Ritchie' added
+21 b'Carambe\xc3\xad' added
+22 b'Maragogi' added
+Grand river south east does not exist
+23 b'Benicarl\xc3\xb3' added
+24 b'Zonguldak' added
+25 b'Oleksandrivka' added
+26 b'Gazli' added
+27 b'Guderup' added
+28 b'Gmina \xc5\x9arem' added
+29 b'Challans' added
+30 b'Polyarny' added
+31 b'Cioc\xc4\x83ne\xc5\x9fti' added
+32 b'Diamantino' added
+33 b'Pilar' added
+34 b'Krasnoyarskiy' added
+35 b'Zhovkva' added
+36 b'Quryq' added
+37 b'La Uni\xc3\xb3n' added
+Louisbourg does not exist
+38 b'Loandjili' added
+39 b'Farsund' added
+40 b'Carmo do Rio Claro' added
+41 b'Mahb\xc5\xabb\xc4\x81b\xc4\x81d' added
+42 b'Benguela' added
+43 b'Tafresh' added
+44 b'Ginir' added
+Is does not exist
+45 b'General Roca' added
+46 b'Antsohihy' added
+47 b'Batalha' added
+48 b'Balaguer' added
+49 b'Subiaco' added
+Now writing to output file!
+Amderma does not exist
+0 b'Halifax' added
+1 b'Zerbst' added
+2 b'Vads\xc3\xb8' added
+Now writing to output file!
+0 b'Eirunep\xc3\xa9' added
+Barentsburg does not exist
+Tsihombe does not exist
+Illoqqortoormiut does not exist
+Bolshoye sorokino does not exist
+1 b'Arrondissement de Saint-Denis' added
+2 b'Masall\xc4\x81tah' added
+Taolanaro does not exist
+3 b'Weligama' added
+4 b'Tupelo' added
+Belushya guba does not exist
+5 b'Landau' added
+6 b'Moroni' added
+7 b'Clervaux' added
+8 b'Concei\xc3\xa7\xc3\xa3o da Barra' added
+9 b'Halifax' added
+10 b'Lira' added
+11 b'Uglovoye' added
+12 b'Ubari' added
+13 b'Maxixe' added
+14 b'Shenkursk' added
+15 b'Xai-Xai' added
+Attawapiskat does not exist
+16 b'Tsimlyansk' added
+17 b'Lucea' added
+18 b'Brusyanskiy' added
+Amderma does not exist
+19 b'Telde' added
+Grand river south east does not exist
+20 b'Sikonge' added
+Tawkar does not exist
+21 b'Port Said' added
+22 b'Ciudad Guayana' added
+23 b'Acara\xc3\xba' added
+24 b'Sjenica' added
+25 b'Guatire' added
+26 b'Hwange' added
+Kuche does not exist
+27 b'Hashtr\xc5\xabd' added
+28 b'Lapua' added
+29 b'Sigulda' added
+30 b'Rehoboth' added
+31 b'Sikandarpur' added
+32 b'Tibiri' added
+33 b'L\xc3\xa1brea' added
+34 b'Sohag' added
+35 b'Harnai' added
+36 b'Olmos' added
+Gollere does not exist
+37 b'Ndjol\xc3\xa9' added
+Louisbourg does not exist
+38 b'Gu\xc3\xada de Isora' added
+39 b'Pomp\xc3\xa9u' added
+40 b'Dvinskoy' added
+41 b'Ishim' added
+42 b'Meulaboh' added
+Barawe does not exist
+43 b'Scarborough' added
+Urdzhar does not exist
+44 b'Krasnodarskiy Kray' added
+45 b'Salamanca' added
+46 b'Galle' added
+Toliary does not exist
+47 b'Owando' added
+48 b'Lenine' added
+49 b'Sinazongwe' added
+Now writing to output file!
+Karakendzha does not exist
+Taolanaro does not exist
+0 b'Leland' added
+1 b'Celend\xc3\xadn' added
+2 b'Burgeo' added
+3 b'Playas' added
+Belushya guba does not exist
+4 b'Sarkand' added
+5 b'Kirovskaya' added
+6 b'Itamarandiba' added
+Barentsburg does not exist
+7 b'Mayor Pablo Lagerenza' added
+8 b'Dw\xc4\x81rka' added
+9 b'Stolac' added
+10 b'Avar\xc3\xa9' added
+Amderma does not exist
+11 b'San Miguel de Cozumel' added
+Illoqqortoormiut does not exist
+12 b"Mezen'" added
+Attawapiskat does not exist
+13 b'Digras' added
+14 b'Kisarawe' added
+15 b'Ellsworth' added
+16 b'Acajutla' added
+17 b'Kankakee' added
+18 b'Millinocket' added
+19 b'Yond\xc3\xb3' added
+20 b'Dinar' added
+Aflu does not exist
+21 b'H\xc4\xabt' added
+22 b'Mombasa' added
+23 b'Baracoa' added
+24 b'Hornepayne' added
+Grand river south east does not exist
+Sinkat does not exist
+25 b'Posse' added
+26 b'Lerwick' added
+27 b'Quelimane' added
+Tsihombe does not exist
+28 b'St-Jean-Port-Joli' added
+29 b'Lixouri' added
+30 b'Bayan' added
+31 b'Clearwater' added
+Umzimvubu does not exist
+Ozgon does not exist
+32 b'Garh Maharaja' added
+Jaipur hat does not exist
+33 b'Severodvinsk' added
+Richard toll does not exist
+34 b'Bristol' added
+35 b'Colan' added
+36 b'Le Port' added
+37 b'Spring Hill' added
+38 b'Mallaig' added
+39 b'Kourou' added
+40 b'Foumban' added
+41 b'Sioux Lookout' added
+42 b'Mokhotlong' added
+43 b'Balatonalm\xc3\xa1di' added
+44 b'Krutinka' added
+45 b'Agadez' added
+46 b'Uyemskiy' added
+47 b'Bragan\xc3\xa7a' added
+48 b'Narva-J\xc3\xb5esuu' added
+49 b'\xc4\x80rya' added
+Now writing to output file!
+Illoqqortoormiut does not exist
+Taolanaro does not exist
+Barentsburg does not exist
+0 b'Bako' added
+1 b'Nar\xc3\xb3n' added
+2 b'Lena' added
+Belushya guba does not exist
+3 b'Rovnoye' added
+4 b'Anzio' added
+5 b'Mehr\xc4\x81n' added
+6 b'Greeneville' added
+7 b'Bogand\xc3\xa9' added
+8 b'Togur' added
+9 b'Mandapeta' added
+10 b'Ne\xe1\xba\x96alim' added
+Tumannyy does not exist
+11 b'Kedrovyy' added
+12 b'Haywards Heath' added
+13 b'Synya' added
+Tsihombe does not exist
+14 b'Oddur' added
+15 b'Saint Lawrence' added
+16 b'North Myrtle Beach' added
+17 b'Jurm' added
+18 b'Malbork' added
+19 b'Dongobesh' added
+Jahrom does not exist
+20 b'Cerro Cama' added
+21 b'Lincoln' added
+22 b'Haverfordwest' added
+23 b'Chimor\xc3\xa9' added
+Vastervik does not exist
+24 b'Carmelo' added
+25 b'Moche' added
+26 b'Mastic Beach' added
+27 b'Stepnyak' added
+28 b'Best\xc3\xb6be' added
+Amderma does not exist
+29 b'Mercedes' added
+Louisbourg does not exist
+30 b'Guant\xc3\xa1namo' added
+Gazni does not exist
+31 b'Virginia Beach' added
+32 b'Tessaoua' added
+33 b'Grand Baie' added
+34 b'Venado Tuerto' added
+35 b'Jodhpur' added
+Bolungarvik does not exist
+36 b'Mendeleyevo' added
+37 b'Verkhnyaya Inta' added
+Grand river south east does not exist
+38 b'Remanso' added
+Warqla does not exist
+39 b'Thunder Bay' added
+40 b'Dhangadhi' added
+41 b'Duekou\xc3\xa9' added
+42 b'Anderson' added
+43 b'Nador' added
+44 b'Melivoia' added
+45 b'Fort Abbas' added
+46 b'Floriano' added
+47 b'Milledgeville' added
+48 b'Willowmore' added
+49 b'Polonnaruwa' added
+Now writing to output file!
+0 b'Calama' added
+Illoqqortoormiut does not exist
+1 b'Rodrigues Alves' added
+2 b'Satipo' added
+3 b'Mmabatho' added
+4 b'Chiredzi' added
+Faridan does not exist
+Barentsburg does not exist
+Belushya guba does not exist
+5 b'Berbera' added
+6 b'Manaus' added
+Asayita does not exist
+7 b'Mbini' added
+8 b'Kargasok' added
+Taolanaro does not exist
+9 b'Kitgum' added
+10 b'Kompaniyivka' added
+11 b'Eura' added
+12 b'Forest Acres' added
+Maloshuyka does not exist
+13 b'Oussouye' added
+14 b'Bom Jesus' added
+15 b'Shubarshi' added
+16 b'Calabozo' added
+17 b'Atocha' added
+Attawapiskat does not exist
+18 b'\xc3\x98rje' added
+19 b'Yorosso' added
+20 b'Gachsaran' added
+21 b'Kibala' added
+Tuggurt does not exist
+22 b'Guiratinga' added
+23 b'Minas' added
+Amderma does not exist
+24 b'Lugoba' added
+25 b'Harrisonburg' added
+26 b'Kirovskiy' added
+27 b'Dunmore Town' added
+28 b'Tut\xc3\xb3ia' added
+29 b'Nyagan' added
+30 b'Nikolskoye' added
+31 b'Guarapari' added
+32 b'Onguday' added
+33 b'Balyqshy' added
+Grand river south east does not exist
+34 b'Chimoio' added
+35 b'Ascension' added
+36 b'Inta' added
+37 b'Zvenigovo' added
+Kazalinsk does not exist
+38 b'Itacarambi' added
+39 b'Ewo' added
+40 b'Solone' added
+Tsihombe does not exist
+41 b'Nicol\xc3\xa1s Bravo' added
+42 b'Iquitos' added
+43 b'Gamba' added
+44 b'Warri' added
+45 b'Lakselv' added
+46 b'Is\xc4\x81garh' added
+Wahran does not exist
+47 b'Troitsko-Pechorsk' added
+48 b'Aras' added
+49 b'Nyakahanga' added
+Now writing to output file!
+0 b'Vaihingen' added
+1 b'Ovalle' added
+Belushya guba does not exist
+2 b'Santiago del Estero' added
+Taolanaro does not exist
+3 b'Quepos' added
+Illoqqortoormiut does not exist
+4 b'Lidk\xc3\xb6ping' added
+5 b'Sangm\xc3\xa9lima' added
+6 b'Pryyutivka' added
+Barentsburg does not exist
+7 b'Florence' added
+8 b'Mahibadhoo' added
+9 b'Vila Praia de \xc3\x82ncora' added
+10 b'Aiquile' added
+11 b'El Tarra' added
+12 b'Sidhi' added
+13 b'Iralaya' added
+Kegayli does not exist
+Tsihombe does not exist
+14 b'Santo Ant\xc3\xb4nio do Sudoeste' added
+15 b'Shakiso' added
+16 b'T\xc3\xabrny' added
+17 b'Cibitoke Province' added
+18 b'Fuerte Olimpo' added
+19 b'Aktash' added
+20 b'Canary Islands' added
+21 b'Paragominas' added
+Sedelnikovo does not exist
+22 b'Balkanabat' added
+23 b'Abap\xc3\xb3' added
+24 b'Charleston' added
+25 b'Tabas' added
+26 b'Beckley' added
+27 b'Khoy' added
+28 b'Zenzeli' added
+29 b'Punta Umbr\xc3\xada' added
+30 b'Dannenberg' added
+Attawapiskat does not exist
+31 b'Regen' added
+32 b'Borgarnes' added
+Marcona does not exist
+33 b'Kapoeta' added
+34 b'Kidal' added
+35 b'Tambopata' added
+36 b'Karpogory' added
+37 b'Noyabrsk' added
+38 b'Kuznechnoye' added
+39 b'Benghazi' added
+40 b'Puerto Colombia' added
+Lemesos does not exist
+Now writing to output file!
+0 b'Ilo' added
+1 b'El Salvador' added
+Belushya guba does not exist
+Illoqqortoormiut does not exist
+2 b'Sebastian' added
+3 b'Arrondissement de Rennes' added
+Attawapiskat does not exist
+Barentsburg does not exist
+Umzimvubu does not exist
+4 b'Angoche' added
+Amderma does not exist
+5 b'Messina' added
+6 b'Manono' added
+7 b'Pangoa' added
+8 b'Bobo-Dioulasso' added
+9 b'Zharkent' added
+10 b'Sivas Province' added
+11 b'Province of Mantua' added
+Taolanaro does not exist
+12 b'G\xc4\x93do' added
+13 b'Folldal' added
+14 b'Rincon' added
+15 b'Cradock' added
+Killini does not exist
+16 b'Cilibia' added
+17 b'Borba' added
+18 b'Novyye Burasy' added
+19 b'Amherst' added
+20 b'Sontra' added
+21 b'Senneterre' added
+22 b'Prainha' added
+23 b'Tizim\xc3\xadn' added
+24 b'S\xc4\x81nchor' added
+25 b'Nokaneng' added
+Tsihombe does not exist
+26 b'Manjacaze' added
+27 b'Santa Cruz de La Palma' added
+28 b'Gop\xc4\x81lpur' added
+29 b'Mahr\xc4\xabz' added
+30 b'Medak' added
+31 b'Manten\xc3\xb3polis' added
+32 b'Boa Vista' added
+33 b'Kommunisticheskiy' added
+Tumannyy does not exist
+Skalistyy does not exist
+Mrirt does not exist
+34 b'Chennai' added
+35 b'Gelibolu' added
+Toliary does not exist
+36 b'Marolambo' added
+37 b'Paducah' added
+Viligili does not exist
+Bolungarvik does not exist
+38 b'Bushehr' added
+39 b'Selma' added
+40 b'Barra do Gar\xc3\xa7as' added
+41 b'Shuya' added
+42 b'Bia\xc5\x82ogard' added
+43 b'Totness' added
+Tarudant does not exist
+44 b'Calatayud' added
+45 b'Tabas' added
+46 b'Arroyo de la Encomienda' added
+Grand river south east does not exist
+47 b'Pionerskiy' added
+48 b'Endicott' added
+49 b'Zhob' added
+Now writing to output file!
+0 b'Toamasina' added
+1 b'Awjilah' added
+Tumannyy does not exist
+Belushya guba does not exist
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+2 b'Monchegorsk' added
+Grand river south east does not exist
+3 b'Chokw\xc3\xa9' added
+4 b'Porto Seguro' added
+5 b'Lafiagi' added
+Taolanaro does not exist
+6 b'Thomasville' added
+7 b'Gwadar' added
+8 b'Beberibe' added
+Attawapiskat does not exist
+9 b'Were \xc4\xaalu' added
+10 b'Roura' added
+Barbar does not exist
+11 b'Sept-\xc3\x8eles' added
+12 b'Shakawe' added
+13 b'Djibouti' added
+14 b'\xc3\x84\xc3\xa4nekoski' added
+15 b'Ratnagiri' added
+16 b'\xc3\x96rnsk\xc3\xb6ldsvik' added
+Dibaya does not exist
+Bolonchen does not exist
+Bocaranga does not exist
+Jaipur hat does not exist
+Yialos does not exist
+Yefira does not exist
+17 b'Bereket' added
+18 b'Conakry' added
+19 b'Goba' added
+20 b'Bakel' added
+Tsihombe does not exist
+Cockburn harbour does not exist
+21 b'Biu' added
+22 b'S\xc3\xa3o Domingos' added
+23 b'Chany' added
+24 b'Kyshtovka' added
+25 b'Zabul Province' added
+26 b'Boali' added
+27 b'Kondoa' added
+28 b'Diffa' added
+29 b'Hukuntsi' added
+Hunza does not exist
+30 b'Kayamkulam' added
+31 b'Agra' added
+Bolungarvik does not exist
+32 b'Ovalle' added
+33 b'Yabr\xc5\xabd' added
+34 b'Ed\xc3\xa9a' added
+35 b'Kikwit' added
+36 b'Kluczbork' added
+37 b'Santiago del Estero' added
+38 b'Kurisove' added
+39 b'Bafoulab\xc3\xa9' added
+40 b'Tosya' added
+41 b'Vodnyy' added
+42 b'Mahalapye' added
+Andarab does not exist
+43 b'Thyolo' added
+44 b'Agirish' added
+45 b'Banda Aceh' added
+46 b'Colquechaca' added
+Jiddah does not exist
+47 b'Tarn\xc3\xb3w' added
+48 b'Kisesa' added
+49 b'Talavera de la Reina' added
+Now writing to output file!
+0 b'Caucasia' added
+Galgani does not exist
+1 b'Santa Cruz del Sur' added
+Barentsburg does not exist
+Belushya guba does not exist
+Amderma does not exist
+2 b'Cervo' added
+3 b'M\xc3\xa9d\xc3\xa9a' added
+Rolim de moura does not exist
+Ciras does not exist
+Paradwip does not exist
+4 b'Novo Aripuan\xc3\xa3' added
+Taolanaro does not exist
+Illoqqortoormiut does not exist
+5 b'Temir' added
+6 b'S\xc3\xa3o Marcos' added
+7 b'Gobabis' added
+8 b'Puerto Nari\xc3\xb1o' added
+9 b'Gedinne' added
+10 b'Arak' added
+11 b'Dawlatabad' added
+12 b'Troianul' added
+13 b'Larsnes' added
+14 b'Angoul\xc3\xaame' added
+15 b'Marystown' added
+16 b'Buritama' added
+Bolungarvik does not exist
+17 b'Prieska' added
+Cheuskiny does not exist
+18 b'Gravdal' added
+19 b'Ziarat' added
+20 b'Tigre' added
+21 b'Sabaudia' added
+Bur gabo does not exist
+Manzil tamim does not exist
+22 b'Willemstad' added
+23 b'Isiro' added
+24 b'Ozinki' added
+25 b'Bai\xc3\xa3o' added
+Scottsburgh does not exist
+26 b'Cape Coast' added
+27 b'Middleton' added
+28 b'Epe' added
+29 b'Olinda' added
+30 b'Rypefjord' added
+Attawapiskat does not exist
+31 b'Acar\xc3\xad' added
+Marcona does not exist
+Tsihombe does not exist
+32 b'Glens Falls' added
+33 b'Storeb\xc3\xb8' added
+34 b'Ormstown' added
+35 b'Nikki' added
+Agva does not exist
+36 b'Schruns' added
+37 b'Opuwo' added
+38 b'Madimba' added
+39 b'Williamsburg' added
+40 b'Kanevskaya' added
+Grand river south east does not exist
+41 b'Outjo' added
+42 b'Dehlor\xc4\x81n' added
+43 b'Osuna' added
+44 b'Azul' added
+45 b'Mufumbwe' added
+46 b'Nizhniy Chir' added
+47 b'Arrondissement de Saint-Malo' added
+48 b'Oudtshoorn' added
+49 b'Corrales' added
+Now writing to output file!
+0 b'Dzilam Gonz\xc3\xa1lez' added
+Illoqqortoormiut does not exist
+1 b'Serenje' added
+Belushya guba does not exist
+Andevoranto does not exist
+Barentsburg does not exist
+2 b'Flores' added
+3 b'Kopychyntsi' added
+4 b'Vera Cruz' added
+Taolanaro does not exist
+5 b'Marovoay' added
+Umzimvubu does not exist
+Amderma does not exist
+6 b'Desbiens' added
+7 b'Ambanja' added
+8 b'Kod\xc4\xabnar' added
+Attawapiskat does not exist
+9 b'Buenaventura' added
+10 b'Boende' added
+Uroteppa does not exist
+11 b'Umarkot' added
+12 b'Mandera' added
+13 b'Udangudi' added
+Sorvag does not exist
+14 b'Big Rapids' added
+15 b'Arrondissement de Morlaix' added
+16 b'Arrondissement de Cambrai' added
+17 b'Bouna' added
+18 b'Bogo' added
+Gangotri does not exist
+19 b'Mazamari' added
+20 b'H\xc5\xabn' added
+21 b'Simav' added
+22 b'Machala' added
+23 b'San-P\xc3\xa9dro' added
+24 b"Kolyvan'" added
+25 b'Phalaborwa' added
+26 b'Diu' added
+27 b'Greenwood' added
+28 b'Cap-aux-Meules' added
+29 b'Manama' added
+30 b'Orocu\xc3\xa9' added
+31 b'K\xc3\xa9dougou' added
+32 b'Goryachegorsk' added
+33 b'Betlitsa' added
+Kuche does not exist
+34 b'Nchelenge' added
+35 b'Caman\xc3\xa1' added
+Solsvik does not exist
+36 b'Buriti Alegre' added
+Warqla does not exist
+37 b'Kropach\xc3\xabvo' added
+38 b'Kapuskasing' added
+39 b'Nazar\xc3\xa9' added
+40 b'Hirtshals' added
+41 b'Tena' added
+42 b'Leverkusen' added
+43 b'Ouadda' added
+44 b'Okahandja' added
+45 b'Ag\xc3\xbcimes' added
+46 b'Nagapattinam' added
+47 b'Una\xc3\xad' added
+48 b"Lebyazh'ye" added
+49 b'Valdez' added
+Now writing to output file!
+Barentsburg does not exist
+Illoqqortoormiut does not exist
+Taolanaro does not exist
+0 b'Sernur' added
+1 b'Tabory' added
+2 b'Catanduva' added
+Belushya guba does not exist
+3 b'Antalaha' added
+4 b'Pontes e Lacerda' added
+Mocambique does not exist
+Tsihombe does not exist
+5 b'Yarmouth' added
+6 b'Oodweyne' added
+7 b'Miran Shah' added
+8 b'Sainte-Rose' added
+Warqla does not exist
+9 b'Bahir Dar' added
+Attawapiskat does not exist
+10 b'Yarega' added
+11 b'Kalikino' added
+12 b'Mak\xc4\xabnsk' added
+13 b'Boueni' added
+14 b'Beaupr\xc3\xa9' added
+Marathopolis does not exist
+15 b'Skegness' added
+16 b'Miraflores' added
+Now writing to output file!
+0 b'Sinop Province' added
+1 b'Marsabit' added
+2 b'Solwezi' added
+Wahran does not exist
+Illoqqortoormiut does not exist
+3 b'Kaduqli' added
+Tsienyane does not exist
+Attawapiskat does not exist
+Amderma does not exist
+4 b'Tarauac\xc3\xa1' added
+Taolanaro does not exist
+5 b'Moroto' added
+Belushya guba does not exist
+6 b'Sidi Ali' added
+7 b'Baharly' added
+Barentsburg does not exist
+8 b'Kapoeta' added
+Galgani does not exist
+9 b'Saint-Paul-l\xc3\xa8s-Dax' added
+10 b'Orcopampa' added
+11 b'Cherepovets' added
+12 b'S\xc3\xa3o Borja' added
+Lephepe does not exist
+13 b'Nova Ol\xc3\xadmpia' added
+14 b'Vesele' added
+15 b'Staryy Saltiv' added
+16 b'Usinsk' added
+17 b'Sem\xc4\xabrom' added
+18 b'Caraballeda' added
+19 b'Nur-Sultan' added
+Grand river south east does not exist
+20 b'Nushki' added
+21 b'Bara' added
+Mrirt does not exist
+22 b'Mor\xc4\x85g' added
+23 b'Manche' added
+24 b'Jega' added
+25 b'G\xc3\xa4vle' added
+26 b'Dromolaxia' added
+27 b'J\xc3\xa9r\xc3\xa9mie' added
+Karaul does not exist
+28 b'Jvari' added
+29 b'Kingori' added
+30 b'Sajanan' added
+31 b'Torzhok' added
+Tumannyy does not exist
+32 b'Tabou' added
+33 b'W\xc5\x82adys\xc5\x82awowo' added
+34 b'Tombouctou' added
+35 b'Diapaga' added
+36 b'Bacalar' added
+37 b'Moba' added
+38 b'Uusikaupunki' added
+39 b'Olonets' added
+40 b'Sokolo' added
+41 b'Bikaner' added
+42 b'San Benito Abad' added
+Now writing to output file!
+0 b'Itaqui' added
+Belushya guba does not exist
+Barentsburg does not exist
+1 b'Krosno Odrza\xc5\x84skie' added
+Illoqqortoormiut does not exist
+2 b'Suwa\xc5\x82ki' added
+3 b'Ponto Novo' added
+4 b'Malanville' added
+5 b'Laas' added
+6 b'Asenovgrad' added
+Sedelnikovo does not exist
+7 b'Mahibadhoo' added
+8 b'Juta\xc3\xad' added
+9 b'East Stroudsburg' added
+10 b'Irau\xc3\xa7uba' added
+11 b'Florian\xc3\xb3polis' added
+12 b'Topchikha' added
+Taolanaro does not exist
+13 b'Sokoni' added
+Grand river south east does not exist
+Bolshoye sorokino does not exist
+14 b'Wamba' added
+Amderma does not exist
+Umzimvubu does not exist
+15 b'Zavallya' added
+16 b'Tobol' added
+17 b'Polessk' added
+18 b'Lubao' added
+19 b'Birr' added
+20 b'New Smyrna Beach' added
+21 b'Nuevo Imperial' added
+Dolbeau does not exist
+22 b'Caribou' added
+23 b'Zabid' added
+Attawapiskat does not exist
+Louisbourg does not exist
+24 b'Vytegra' added
+25 b'Palmeiras de Goi\xc3\xa1s' added
+26 b'Greytown' added
+27 b'Harar' added
+28 b'Bhas\xc4\x81war' added
+29 b'Duminichi' added
+30 b'Aleppo Governorate' added
+31 b'Chhabra' added
+Tsihombe does not exist
+Potgietersrus does not exist
+32 b'Curvelo' added
+33 b'Bayj\xc4\xab' added
+34 b'Baraki Barak' added
+Tumannyy does not exist
+35 b'Koygorodok' added
+Addi ugri does not exist
+36 b'Bakhmach' added
+37 b'Sar\xc4\x81han' added
+38 b'Santa Marinella' added
+39 b'Kalaiya' added
+40 b'Kaupanger' added
+41 b'Yantzaza' added
+42 b'Stupino' added
+43 b'Abap\xc3\xb3' added
+44 b'Kintampo' added
+45 b'Iznoski' added
+Skalistyy does not exist
+46 b'Mirandola' added
+47 b'Ahtopol' added
+48 b'Kanhangad' added
+49 b'Kocs\xc3\xa9r' added
+50 b'Watsa' added
+Warqla does not exist
+51 b'Mitha Tiwana' added
+52 b'Escanaba' added
+53 b'Volot' added
+54 b'Al Bard\xc4\xabyah' added
+55 b'Las Tunas' added
